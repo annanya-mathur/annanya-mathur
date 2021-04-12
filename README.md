@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-<!--
-**annanya-mathur/annanya-mathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 🔭 I’m currently working on ...
      Python![image](https://user-images.githubusercontent.com/68476475/114355531-35308b80-9b8d-11eb-938c-c905d88fc763.png)
  Javascript DATA Visualization
