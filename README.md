@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on DATA Visualization and WEB Development ![image](https://user-images.githubusercontent.com/68476475/114359693-dcafbd00-9b91-11eb-8f76-cb17a9c9373c.png)
+### 🔭 I’m currently working on DATA Visualization and WEB Development ![image](https://user-images.githubusercontent.com/68476475/114360571-ce15d580-9b92-11eb-9310-e6519766343f.png)
+
 
 ### 🌱 I’m currently learning Python ,Javascript and JSON 
 ### 🖥️⏩📱 I'm build an Progressive Web App
