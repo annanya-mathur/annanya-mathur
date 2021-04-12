@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on DATA Visualization![image](https://user-images.githubusercontent.com/68476475/114355531-35308b80-9b8d-11eb-938c-c905d88fc763.png)
+### 🔭 I’m currently working on DATA Visualization![image](https://user-images.githubusercontent.com/68476475/114355531-35308b80-9b8d-11eb-938c-c905d88fc763.png) WEB Development ![image](https://user-images.githubusercontent.com/68476475/114356787-a02e9200-9b8e-11eb-98b9-7b62698bf288.png)
+
  Javascript DATA Visualization
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
