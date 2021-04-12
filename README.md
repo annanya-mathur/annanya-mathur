@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on DATA Visualization and WEB Development ![m_webapp-progressive-web-app-pwa (1) (2)](https://user-images.githubusercontent.com/68476475/114371248-efc88a00-9b9d-11eb-9b9c-a78f121d204c.png)
-### ![tr24032017-ladder-6](https://user-images.githubusercontent.com/68476475/114376523-5308eb00-9ba3-11eb-914b-31b69b68d957.gif)
+### ![gifgit](https://user-images.githubusercontent.com/68476475/114377046-dc202200-9ba3-11eb-8f25-99fef8d7301c.gif)
+
 ### 🌱 I’m currently learning Python ,Javascript and JSON 
 ### 🖥️⏩📱 I'm build an Progressive Web App
 ### 📙 Previously I learnt about C , C➕➕, HTML , CSS.
