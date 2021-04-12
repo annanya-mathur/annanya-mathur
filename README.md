@@ -1,5 +1,6 @@
 ### Hi there 👋
-### 🔭 I’m currently working on DATA Visualization and WEB Development ![m_webapp-progressive-web-app-pwa (1) (1)](https://user-images.githubusercontent.com/68476475/114371055-c27bdc00-9b9d-11eb-9828-39d01791cc40.png)
+### 🔭 I’m currently working on DATA Visualization and WEB Development ![m_webapp-progressive-web-app-pwa (1) (2)](https://user-images.githubusercontent.com/68476475/114371248-efc88a00-9b9d-11eb-9b9c-a78f121d204c.png)
+
 
 
 
