@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on DATA Visualization and WEB Development 
 ### 🌱 I’m currently learning Python ,Javascript and JSON 
-### 🖥️➡️📱 I'm build an Progressive Web App
-### 📙 Previously I learnt about C , C➕➕, 
+### 🖥️⏩📱 I'm build an Progressive Web App
+### 📙 Previously I learnt about C , C➕➕, HTML , CSS.
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
