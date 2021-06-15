@@ -8,7 +8,6 @@
 
 
 ### 🌱 I’m currently learning Python , Tensorflow and Opencv . 
-### 🖥️⏩📱 I'm working on deep neural network
 ### 📙 Previously I learnt about C , C➕➕, MACHING LEARNING.
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
