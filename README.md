@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on DEEP LEARNING
-![0_4aHRjVXRKsyUhm2b](https://user-images.githubusercontent.com/68476475/122042181-734d6400-cdf7-11eb-89a7-1797e58c882d.gif)
-
+![gifgit (5)](https://user-images.githubusercontent.com/68476475/122043219-b9ef8e00-cdf8-11eb-8433-02005dbe7665.gif)
 ![c++](https://user-images.githubusercontent.com/68476475/114379340-52258880-9ba6-11eb-9ef5-5ce7152a1fb8.gif)
 
 
