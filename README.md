@@ -6,7 +6,8 @@
 
 
 
-**MEDIUM:-** https://annanyasmathur2017.medium.com/
+### MEDIUM:-
+https://annanyasmathur2017.medium.com/
 ### 🌱 I’m currently learning Python , Tensorflow and Opencv . 
 ### 📙 Previously I learnt about C , C➕➕, MACHING LEARNING.
 <!-- 👯 I’m looking to collaborate on ...
